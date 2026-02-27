@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=EricEsquivel&project=CobaltStrike-Linux-Beacon&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=EricEsquivel&project=CobaltStrike-Linux-Beacon&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=EricEsquivel&project=CobaltStrike-Linux-Beacon&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=EricEsquivel&project=CobaltStrike-Linux-Beacon&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=EricEsquivel&project=CobaltStrike-Linux-Beacon&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=EricEsquivel&project=CobaltStrike-Linux-Beacon&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=EricEsquivel&project=CobaltStrike-Linux-Beacon&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=EricEsquivel&project=CobaltStrike-Linux-Beacon&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=EricEsquivel&project=CobaltStrike-Linux-Beacon&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=EricEsquivel&project=CobaltStrike-Linux-Beacon&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=EricEsquivel&project=CobaltStrike-Linux-Beacon&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=EricEsquivel&project=CobaltStrike-Linux-Beacon&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=EricEsquivel&project=CobaltStrike-Linux-Beacon&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=EricEsquivel&project=CobaltStrike-Linux-Beacon&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=EricEsquivel&project=CobaltStrike-Linux-Beacon&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=EricEsquivel&project=CobaltStrike-Linux-Beacon&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=EricEsquivel&project=CobaltStrike-Linux-Beacon&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=EricEsquivel&project=CobaltStrike-Linux-Beacon&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=EricEsquivel&project=CobaltStrike-Linux-Beacon&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=EricEsquivel&project=CobaltStrike-Linux-Beacon&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=EricEsquivel&project=CobaltStrike-Linux-Beacon&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # Cobalt Strike Linux Beacon
 
 A proof-of-concept custom Linux Beacon written in C that communicates with the Cobalt Strike teamserver using the HTTP/S protocol.
